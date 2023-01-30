@@ -6,10 +6,15 @@ This Repository consist  of all the materials and assignments related to the ful
 
 
 👨‍💻 About This Repo :
+
 I am learning Data Science.
+
 I am posting the class notes here for the Community.
+
 Each post includes detailed codes on below topics.
+
 🛠️ Contents :
+
 Python: Datatypes, Loops, Conditional Statement, Functions, OOPS, Exception Handeling, Logging, etc
 
 Data Manipulation: Pandas and Numpy

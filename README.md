@@ -19,7 +19,7 @@ This Repository consist  of all the materials and assignments related to the ful
 
 -Data Manipulation: Pandas and Numpy
 
--Data Visulization: Matplotlib, Seaborn, Plotly, Cufflinks,
+-Data Visualisation: Matplotlib, Seaborn, Plotly, Cufflinks,
 
 -Database: MySQL and MongoDB
 

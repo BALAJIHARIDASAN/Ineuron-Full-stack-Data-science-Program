@@ -23,7 +23,7 @@ This Repository consist  of all the materials and assignments related to the ful
 
 -Database: MySQL and MongoDB
 
--Statistics: Descreptive Statistics, Hypothesis Testing, etc
+-Statistics: Descriptive Statistics, Hypothesis Testing, etc
 
 -Machine Learning: Basics, Linear Regression, Logistic Regression, SVM, etc
 

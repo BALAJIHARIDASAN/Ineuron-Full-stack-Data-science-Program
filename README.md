@@ -1,4 +1,4 @@
-# Ineuron-
+
 This Repository consist  of all the materials and assignments related to the full stack data science program
 
 
@@ -19,11 +19,11 @@ This Repository consist  of all the materials and assignments related to the ful
 
 -Data Manipulation: Pandas and Numpy
 
--Data Visulization: Matplotlib, Seaborn, Plotly, Cufflinks,
+-Data Visualisation: Matplotlib, Seaborn, Plotly, Cufflinks,
 
 -Database: MySQL and MongoDB
 
--Statistics: Descreptive Statistics, Hypothesis Testing, etc
+-Statistics: Descriptive Statistics, Hypothesis Testing, etc
 
 -Machine Learning: Basics, Linear Regression, Logistic Regression, SVM, etc
 
